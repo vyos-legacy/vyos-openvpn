@@ -1,3 +1,10 @@
+openvpn (2.4.0-6+deb9u1~bpo8+1) jessie-backports; urgency=high
+
+  * Rebuild for jessie-backports.
+    - change build-dep: libssl1.0-dev to libssl-dev
+
+ -- Bernhard Schmidt <berni@debian.org>  Sun, 02 Jul 2017 22:37:35 +0200
+
 openvpn (2.4.0-6+deb9u1) stretch-security; urgency=high
 
    * SECURITY UPDATE: (Closes: #865480)
